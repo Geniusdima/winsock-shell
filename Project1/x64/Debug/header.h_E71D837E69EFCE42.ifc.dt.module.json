@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\header.obj",
+            "outputs": [
+                "x64\\Debug\\header.h_E71D837E69EFCE42.ifc.dt.module.json",
+                "x64\\Debug\\header.h_E71D837E69EFCE42.ifc.dt.d.json",
+                "x64\\Debug\\header.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\dmitro\\source\\repos\\Project1\\Project1\\header.h",
+                    "source-path": "c:\\users\\dmitro\\source\\repos\\project1\\project1\\header.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
